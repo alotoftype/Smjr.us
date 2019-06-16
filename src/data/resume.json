@@ -1,0 +1,23 @@
+{
+  "name": "serge",
+  "phone": "3473513969",
+  "City": "New York",
+  "title": "Web Developer",
+  "work": [
+    {
+      "company": "TommyJohn",
+      "current": true,
+      "job-title": "Frontend Developer",
+      "start-date": "4/3/17"
+      "description": "Description about work done at TommyJohn"
+    }
+  ],
+  "skills":[
+    "html", "css/scss", "javascript", "react","git","wordpress"
+  ],
+  "education":[
+    {
+      "name":"City College of New York"
+    }
+  ]
+}
